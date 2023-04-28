@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+body{
+    background: url('https://t4.ftcdn.net/jpg/02/10/54/69/360_F_210546904_9BCZEy11YRxLIXH4WHC1btb0sPx7nF2m.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.container{
+    margin: 6% 20% 10% 35%; 
+    height: 40%;
+    width: 50%;
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 2% 0 4% 0;
+    box-shadow: 0px 0px 20px rgb(160, 160, 160);
+   
+}
+
+h1{  
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: whitesmoke;
+    margin-bottom: 21px;
+}
+
+label{
+    margin-left: 50px;
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(40, 248, 255);
+}
+
+input{
+    margin-left: 45px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    width: 80%;
+    padding: 5px 0 5px 30px;
+    border-radius: 10px;
+    text-align: left;
+}
